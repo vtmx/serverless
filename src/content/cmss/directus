@@ -1,0 +1,8 @@
+---
+path: "services/cmss/directus"
+title: "Directus"
+url: "https://directus.io/"
+logo: "/images/directus.png"
+---
+
+Directus stores all your data unaltered, in SQL databases designed by you. Connect to your data from anywhere everywhere.
